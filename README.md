@@ -4,8 +4,11 @@ meu nome é Kevin Lima
 
 -🐾atualmente trabalho como de auxiliar de veterinária
 
--💻 faço de curso de TI
+-💻faço de curso de TI
+
+
 E só.👍
+
 
 <div align="center">
   <a href="https://github.com/kevinn1122">
